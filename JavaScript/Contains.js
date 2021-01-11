@@ -16,4 +16,4 @@ let resulContains = (ar, fn) => {
 }
 
 let resulBoolean = resulContains(arContains, 1); 
-document.write('Este es el resultado del meodo Contains: '+resulBoolean+'<br>'); 
+document.write('Este es el resultado del metodo Contains: '+resulBoolean+'<br>'); 

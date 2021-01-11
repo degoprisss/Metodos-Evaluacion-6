@@ -13,4 +13,4 @@ let resulMap = (arr, fn) => {
 }
 
 let Mapeado = resulMap(arMap, fnMap); 
-document.write('Este es el resultado del meodo Map: '+'['+Mapeado+']'+'<br>'); 
+document.write('Este es el resultado del metodo Map: '+'['+Mapeado+']'+'<br>'); 

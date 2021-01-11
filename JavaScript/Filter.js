@@ -15,4 +15,4 @@ function filtre(arreglo, fn){
 }
 
 let resu = filtre(varFil, fnFilter); 
-document.write('Este es el resultado del meodo Filter: '+'['+resu+']'+'<br>'); 
+document.write('Este es el resultado del metodo Filter: '+'['+resu+']'+'<br>'); 

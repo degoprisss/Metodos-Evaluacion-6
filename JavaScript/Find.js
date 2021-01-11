@@ -16,4 +16,4 @@ let resulFind = (ar, fn) => {
 }
 
 let foundFind = resulFind(arFind, fnFind); 
-document.write('Este es el resultado del meodo Find: '+foundFind+'<br>'); 
+document.write('Este es el resultado del metodo Find: '+foundFind+'<br>'); 

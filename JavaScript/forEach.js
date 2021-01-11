@@ -9,7 +9,7 @@ let recoForEach = (arr, fn) => {
     for (let index = 0; index < arr.length; index++) {
         fn(arr[index], index, arr);
     }
-    document.write('Este es el resultado del meodo forEach: '+suma+'<br>');
+    document.write('Este es el resultado del metodo forEach: '+suma+'<br>');
 }
 
 recoForEach(arForEach, fnForEach); 

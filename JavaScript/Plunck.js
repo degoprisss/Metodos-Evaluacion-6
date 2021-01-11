@@ -11,4 +11,4 @@ let resulPlunck = (arr, fn) => {
 }
 
 let resuPlunck = resulPlunck(arPluck,  fnPlunck); 
-document.write('Este es el resultado del meodo Plunck: '+'['+resuPlunck+']'+'<br>'); 
+document.write('Este es el resultado del metodo Plunck: '+'['+resuPlunck+']'+'<br>'); 

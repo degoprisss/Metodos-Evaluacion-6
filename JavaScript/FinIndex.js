@@ -15,4 +15,4 @@ let resulFindIndex = (ar, fn) => {
 }
 
 let foundFindIndex = resulFindIndex(arFindIdex, fnFindIndex); 
-document.write('Este es el resultado del meodo FinIndex: '+foundFindIndex+'<br>'); 
+document.write('Este es el resultado del metodo FinIndex: '+foundFindIndex+'<br>'); 
